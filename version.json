@@ -1,0 +1,6 @@
+{
+  "version": "5",
+  "file": "libplayer.so",
+  "bootv":"1",
+  "bootf":"boot.so"
+}
