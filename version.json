@@ -1,5 +1,5 @@
 {
-  "version": "7",
+  "version": "8",
   "file": "libplayer.json",
   "bootv":"1",
   "bootf":"boot.so"
