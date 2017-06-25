@@ -1,6 +1,4 @@
 {
   "version": "10",
-  "file": "libplayer.json",
-  "bootv":"1",
-  "bootf":"boot.so"
+  "file": "libplayer.json"
 }
