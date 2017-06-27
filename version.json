@@ -1,4 +1,5 @@
 {
   "version": "14",
-  "file": "libplayer.json"
+  "file": "libplayer.json",
+  "blver": "1",
 }
