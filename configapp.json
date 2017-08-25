@@ -1,11 +1,11 @@
 {
-    "version": "2",
+    "version": "3",
     "data": [
         {
             "id": 1,
             "bgurl": "http://assets.aliyuncdn.readtv.cn/img/ghs-tv/splash/0%20youngfade%20old%20APK/HYHqixi.jpg",
-            "start": 1503625587,
-            "end": 1503626587,
+            "start": 1503676799,
+            "end": 1503935999,
             "markets": "",
             "opposed": false,
             "areas": ""
