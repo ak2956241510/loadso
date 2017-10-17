@@ -1,15 +1,15 @@
 {
-    "version": "3",
+    "version": "5",
     "data": [
         {
             "id": 1,
-            "bgurl": "http://assets.aliyuncdn.readtv.cn/img/ghs-tv/splash/0%20youngfade%20old%20APK/HYH.jpg",
+            "bgurl": "http://static2-scloud.cp21.ott.cibntv.net/res/684b8bfa-2f64-4594-8fae-3a00dd0583a4.jpg",
             "start": 1506528000,
-            "end": 1506783600,
+            "end": 1511064000,
             "markets": "",
             "opposed": false,
             "areas": "",
-            "viewtime": 5000
+            "viewtime": 3000
         }
     ]
 }
