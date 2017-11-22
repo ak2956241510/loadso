@@ -1,0 +1,21 @@
+{
+    "version": "1",
+    "data": [
+        {
+            "id": 1,
+            "title":"点击下载",
+            "subtitle":"高清版",
+            "dltitle":"正在下载",
+            "dlsubtitle":"高清版",
+            "bgurl": "http://lqcdn.dangbei.net/zxw.jpg",
+            "apkurl":"http://app.znds.com/update/fixedaddress/kuaisou_HYH.apk",
+            "apkpackage": "com.tv.kuaisou",
+            "start": 1511335455,
+            "end": 1513927455,
+            "size": 19886161,
+            "markets": "znds",
+            "opposed": false,
+            "areas": ""
+        }
+    ]
+}
