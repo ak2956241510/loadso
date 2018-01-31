@@ -1,12 +1,12 @@
 {
-    "version": "5",
+    "version": "6",
     "data": [
         {
-            "id": 1,
-            "bgurl": "http://assets.aliyuncdn.readtv.cn/img/ghs-tv/splash/0%20youngfade%20old%20APK/HYH/1110.jpg",
-            "start": 1510221600,
-            "end": 1510416000,
-            "size": 376187,
+            "id": 2,
+            "bgurl": "http://readtv-assets.oss-cn-qingdao.aliyuncs.com/img/ghs-tv/splash/0%20youngfade%20old%20APK/HYH/0131.jpg",
+            "start": 1517369744,
+            "end": 1519313750,
+            "size": 822566,
             "markets": "",
             "opposed": false,
             "areas": "",
