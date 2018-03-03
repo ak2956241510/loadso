@@ -1,12 +1,12 @@
 {
-    "version": "7",
+    "version": "8",
     "data": [
         {
             "id": 1,
-            "bgurl": "http://readtv-assets.oss-cn-qingdao.aliyuncs.com/img/ghs-tv/splash/0%20youngfade%20old%20APK/baofeng/0201.jpg",
-            "start": 1517369744,
-            "end": 1519832150,
-            "size": 234135,
+            "bgurl": "http://readtv-assets.oss-cn-qingdao.aliyuncs.com/img/ghs-tv/splash/0%20youngfade%20old%20APK/HYH/1920-1080-(1).jpg",
+            "start": 1520039583,
+            "end": 1522505583,
+            "size": 243391,
             "markets": "",
             "opposed": false,
             "areas": "",
