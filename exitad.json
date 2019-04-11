@@ -4,16 +4,16 @@
         {
             "id": 2,
             "title":"点击下载",
-            "subtitle":"高清版",
+            "subtitle":"当贝市场",
             "dltitle":"正在下载",
             "dlsubtitle":"高清版",
-            "bgurl": "https://raw.githubusercontent.com/ak2956241510/loadso/master/zxw.jpg",
-            "apkurl":"http://app.znds.com/update/fixedaddress/kuaisou_HYH.apk",
+            "bgurl": "http://imge.dangbei.net/advertImage/20170620/cb5bed8750a48166e712e951ab077975.jpg",
+            "apkurl":"http://lqcdn.dangbei.net/zhu/dbsc_4.1.6_dangbei.apk",
             "apkpackage": "com.tv.kuaisou",
-            "start": 1532067726,
-            "end": 1550331195,
-            "size": 10681624,
-            "markets": "znds",
+            "start": 1554947403,
+            "end": 1577670603,
+            "size": 17506820,
+            "markets": "zndsshafa7po",
             "opposed": false,
             "areas": ""
         }
